@@ -1,6 +1,7 @@
 # Runo_Assignment
 Vaccine Registration App
 This application allows users to register for COVID-19 vaccinations, check available slots, and manage their vaccination statuses. Admins can monitor users and vaccination slots.
+
 Table of Contents
 1.	Features
 2.	APIs and Functionalities
@@ -9,6 +10,8 @@ Table of Contents
 5.	Installation and Setup
 6.	MongoDB Atlas Credentials
 7.	Low-Level Diagram
+
+   
 Features
 For Users:
 •	User Registration with mandatory details (Name, Phone Number, Age, Pincode, Aadhar No).
@@ -118,6 +121,8 @@ Technologies Used
 •	Database: MongoDB Atlas
 •	Authentication: JWT for user sessions
 •	Libraries: Mongoose, Bcrypt, Express Validator
+
+
 Installation and Setup
 1.	Clone the repository: 
 git clone https://github.com/NalliAishwarya/Runo_Assignment.git
@@ -129,10 +134,13 @@ MONGO_URI=<your_mongodb_connection_string>
 JWT_SECRET=<your_jwt_secret>
 4.	Start the server:
 node server.js
+
 MongoDB Atlas Credentials
 •	Username: aishwaryanalli2010
 •	Password: aishu81
 •	Database Name: test
+
+
 Low-Level Diagram:
 ![image](https://github.com/user-attachments/assets/403bbc87-8671-443a-936f-fb60caa086ec)
 
