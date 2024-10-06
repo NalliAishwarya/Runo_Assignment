@@ -167,6 +167,6 @@ MongoDB Atlas Credentials
 •	Database Name: test
 
 
-Low-Level Diagram:
+                                 Low-Level Diagram:
 ![image](https://github.com/user-attachments/assets/403bbc87-8671-443a-936f-fb60caa086ec)
 
