@@ -161,9 +161,6 @@ JWT_SECRET=<your_jwt_secret>
 node server.js
 
 MongoDB Atlas Credentials
-
-•	Username: aishwaryanalli2010
-•	Password: aishu81
 •	Database Name: test
 
 
